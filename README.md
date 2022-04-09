@@ -12,7 +12,7 @@ https://giphy.com/search/computer-stickers
 
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gl00ria&show_icons=true&theme=radical&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Gl00ria&theme=tokyonight&show_icons=true&count_private=true)
 
 <!---
 Gl00ria/Gl00ria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
