@@ -1,9 +1,6 @@
-### - I like to [KISS](https://en.wikipedia.org/wiki/KISS_principle)
+🚀 **Software Engineer** | 🎓 **Master in Cybersecurity** | 🤖 **Riding the AI wave**  
 
-### - Languages 🔭
-<p align="center" >
-  <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gl00ria&&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=8" alt="Gl00ria"/></a>
-</p>
+Believer in the **KISS principle** (Keep It Simple, Stupid)
 
 ### - Stats ⚡️
 <table style="border:none;margin:0 auto">
@@ -13,3 +10,5 @@
   </tr>
 </table>
 <br>
+
+> "Simplicity is the ultimate sophistication." - Leonardo da Vinci
