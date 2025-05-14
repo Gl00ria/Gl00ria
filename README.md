@@ -1,6 +1,6 @@
-🚀 **Software Engineer** | 🎓 **Master in Cybersecurity** | 🤖 **Riding the AI wave**  
+🚀 **Software Engineer** | 🎓 **Master in Cybersecurity** | 🤖 **Riding the AI wave**  | ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) **BTW**
 
-Believer in the **KISS principle** (Keep It Simple, Stupid)
+Following the **KISS principle** (Keep It Simple, Stupid)
 
 ### - Stats ⚡️
 <table style="border:none;margin:0 auto">
